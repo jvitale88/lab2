@@ -1,2 +1,4 @@
 text file
 I am typing in the text file
+
+Julia's edits
